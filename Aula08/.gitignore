@@ -1,0 +1,5 @@
+# Ignorar arquivos de build e IDE
+*.class
+*.iml
+out/
+.idea/
